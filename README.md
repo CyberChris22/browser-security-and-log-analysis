@@ -31,6 +31,3 @@ Focuses on analyst-level log review skills: establishing normal behavioral basel
 - Baseline creation and correlation
 - SOC-style investigative methodology
 
-## Disclaimer
-
-All work is performed in a controlled lab environment for **educational and defensive purposes only**.
