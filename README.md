@@ -6,19 +6,27 @@ This repository hosts a standalone, multi-part cybersecurity project designed to
 
 
 
-\## Project Overview
+\## Part 1: Chrome Attack Surface
 
 
 
-\*\*Part 1: Chrome Attack Surface\*\* documents common methods attackers use to abuse Google Chrome, including extensions, process exploitation, and access to credential files, emphasizing understanding threat techniques rather than exploitation.
+Documents common methods attackers use to abuse Google Chrome, including extensions, process exploitation, and access to credential files. Focus is on understanding threat techniques rather than exploitation. Screenshots and documentation are included to illustrate each scenario.
 
 
 
-\*\*Part 2: Chrome Detection \& Defense\*\* demonstrates detection engineering by creating custom rules, alerts, and dashboards (e.g., Wazuh) to catch browser-based threats, including examples of alert tuning and visualization for SOC-style monitoring.
+\## Part 2: Chrome Detection \& Defense
 
 
 
-\*\*Part 3: Logfile Parsing \& Baseline Analysis\*\* focuses on analyst-level log review skills, establishing normal behavioral baselines, detecting subtle anomalies, and investigating events that automated alerts may miss.
+Demonstrates detection engineering by creating custom rules, alerts, and dashboards (e.g., Wazuh) to catch browser-based threats. Includes examples of alert tuning and visualization for SOC-style monitoring.
+
+
+
+\## Part 3: Logfile Parsing \& Baseline Analysis
+
+
+
+Focuses on analyst-level log review skills: establishing normal behavioral baselines, detecting subtle anomalies, and investigating events that automated alerts may miss. Sample logs and analysis are provided for reference.
 
 
 
